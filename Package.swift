@@ -9,14 +9,14 @@ let package = Package(
         .library(
             name: "Stripe",
             type: .static,
-            targets: ["StripeiOS"]
+            targets: ["Stripe"]
         ),
     ],
     dependencies: [
     ],
     targets: [
         .target(
-            name: "StripeiOS",
+            name: "Stripe",
             path: "./Stripe",
             exclude: ["./Payments"],
             publicHeadersPath: "./PublicHeaders",
