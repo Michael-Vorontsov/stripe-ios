@@ -8,7 +8,15 @@ let package = Package(
     products: [
         .library(
             name: "Stripe",
+            targets: ["Stripe"]
+        ),.library(
+            name: "StripeStatic",
             type: .static,
+            targets: ["Stripe"]
+        ),
+        .library(
+            name: "StripeDynamic",
+            type: .dynamic,
             targets: ["Stripe"]
         ),
     ],
