@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 @interface ViewController ()
 

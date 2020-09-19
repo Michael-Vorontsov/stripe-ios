@@ -8,7 +8,7 @@
 
 #import <XCTest/XCTest.h>
 #import <OCMock/OCMock.h>
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 #import "STPAPIClient+Private.h"
 #import "STPCustomerContext.h"
 #import "STPEphemeralKeyManager.h"

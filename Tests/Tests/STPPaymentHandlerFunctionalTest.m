@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 #import <OCMock/OCMock.h>
 #import <SafariServices/SafariServices.h>
 

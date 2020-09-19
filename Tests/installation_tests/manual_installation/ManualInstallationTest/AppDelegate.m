@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 @interface AppDelegate ()
 

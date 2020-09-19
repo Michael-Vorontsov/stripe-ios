@@ -8,7 +8,7 @@
 
 #import <XCTest/XCTest.h>
 
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 #import "NSLocale+STPSwizzling.h"
 #import "STPFixtures.h"
 #import "STPPostalCodeValidator.h"

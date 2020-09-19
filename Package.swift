@@ -9,6 +9,7 @@ let package = Package(
         // Products define the executables and libraries produced by a package, and make them visible to other packages.
         .library(
             name: "StripeiOS",
+            type: .static,
             targets: ["StripeiOS"]
         ),
     ],
@@ -22,10 +23,19 @@ let package = Package(
         .target(
             name: "StripeiOS",
             path: "./Stripe",
+            exclude: ["./Payments"],
+            publicHeadersPath: "./PublicHeaders",
             cSettings: [
-               .headerSearchPath("Stri[e/PublicHeaders"),
+               .headerSearchPath("./PublicHeaders"),
+               .headerSearchPath("./Payments"),
+               .headerSearchPath("./")
+            ],
+            cxxSettings: [
+               .headerSearchPath("./PublicHeaders"),
+               .headerSearchPath("./Payments"),
+               .headerSearchPath("./")
             ]
-        ),
+        )
 //        .testTarget(
 //            name: "Tests",
 //            dependencies: ["StripeiOS"],

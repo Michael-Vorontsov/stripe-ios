@@ -7,7 +7,7 @@
 //
 
 @import UIKit;
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 @protocol ExampleViewControllerDelegate <STPAuthenticationContext>
 

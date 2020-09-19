@@ -8,7 +8,7 @@
 
 #import <XCTest/XCTest.h>
 #import <FBSnapshotTestCase/FBSnapshotTestCase.h>
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 #import "FBSnapshotTestCase+STPViewControllerLoading.h"
 #import "STPAddressViewModel.h"

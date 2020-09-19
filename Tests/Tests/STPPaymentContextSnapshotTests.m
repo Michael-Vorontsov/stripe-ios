@@ -8,7 +8,7 @@
 
 #import <FBSnapshotTestCase/FBSnapshotTestCase.h>
 #import <OCMock/OCMock.h>
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 #import "FBSnapshotTestCase+STPViewControllerLoading.h"
 #import "STPFixtures.h"

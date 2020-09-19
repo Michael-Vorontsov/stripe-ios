@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <OCMock/OCMock.h>
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 @interface STPMocks : NSObject
 

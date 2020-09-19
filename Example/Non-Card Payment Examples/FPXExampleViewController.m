@@ -6,7 +6,7 @@
 //  Copyright © 2019 Stripe. All rights reserved.
 //
 
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 #import "FPXExampleViewController.h"
 #import "BrowseExamplesViewController.h"
 #import "MyAPIClient.h"

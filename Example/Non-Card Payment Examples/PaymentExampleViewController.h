@@ -8,7 +8,7 @@
 
 @import UIKit;
 
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 #import "BrowseExamplesViewController.h"
 

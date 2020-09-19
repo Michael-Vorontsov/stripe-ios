@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 #import "STPAPIClient+PushProvisioning.h"
 #import "STPNetworkStubbingTestCase.h"
 #import "STPFixtures.h"

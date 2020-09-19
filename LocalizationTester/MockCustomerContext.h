@@ -6,7 +6,7 @@
 //  Copyright © 2018 Stripe, Inc. All rights reserved.
 //
 
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 @interface MockCustomerContext : STPCustomerContext
 

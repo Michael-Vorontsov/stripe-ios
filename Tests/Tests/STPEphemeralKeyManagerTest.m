@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 #import "NSError+Stripe.h"
 #import "STPEphemeralKey.h"
 #import "STPEphemeralKeyManager.h"

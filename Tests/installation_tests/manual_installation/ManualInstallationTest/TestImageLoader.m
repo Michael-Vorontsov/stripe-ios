@@ -7,7 +7,7 @@
 //
 
 #import "TestImageLoader.h"
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 @implementation TestImageLoader
 

@@ -6,7 +6,7 @@
 //  Copyright © 2017 Stripe. All rights reserved.
 //
 
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 #import "ApplePayExampleViewController.h"
 #import "BrowseExamplesViewController.h"

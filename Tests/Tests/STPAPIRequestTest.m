@@ -8,7 +8,7 @@
 
 #import <XCTest/XCTest.h>
 #import <OCMock/OCMock.h>
-#import <Stripe/Stripe.h>
+#import "Stripe.h"
 
 #import "STPAPIRequest.h"
 
