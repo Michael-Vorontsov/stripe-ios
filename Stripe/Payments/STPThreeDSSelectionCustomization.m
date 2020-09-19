@@ -9,7 +9,7 @@
 #import "STPThreeDSSelectionCustomization.h"
 #import "STPThreeDSCustomization+Private.h"
 
-#import <Stripe/STDSSelectionCustomization.h>
+#import "STDSSelectionCustomization.h"
 
 @implementation STPThreeDSSelectionCustomization
 

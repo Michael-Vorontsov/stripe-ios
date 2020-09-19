@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <Stripe/STDSSelectionCustomization.h>
+#import "STDSSelectionCustomization.h"
 
 #import "STPThreeDSSelectionCustomization.h"
 #import "STPThreeDSCustomization+Private.h"

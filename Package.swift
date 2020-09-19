@@ -26,7 +26,6 @@ let package = Package(
         .target(
             name: "Stripe",
             path: "./Stripe",
-            exclude: ["./Payments"],
             publicHeadersPath: "./PublicHeaders",
             cSettings: [
                .headerSearchPath("./PublicHeaders"),

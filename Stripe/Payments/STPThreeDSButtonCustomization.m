@@ -9,7 +9,7 @@
 #import "STPThreeDSButtonCustomization.h"
 #import "STPThreeDSCustomization+Private.h"
 
-#import <Stripe/STDSButtonCustomization.h>
+#import "STDSButtonCustomization.h"
 
 @implementation STPThreeDSButtonCustomization
 

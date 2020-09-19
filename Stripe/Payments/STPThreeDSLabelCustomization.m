@@ -9,7 +9,7 @@
 #import "STPThreeDSLabelCustomization.h"
 
 #import "STPThreeDSCustomization+Private.h"
-#import <Stripe/STDSLabelCustomization.h>
+#import "STDSLabelCustomization.h"
 
 @implementation STPThreeDSLabelCustomization
 

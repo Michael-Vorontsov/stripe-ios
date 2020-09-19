@@ -10,7 +10,7 @@
 #import "STPThreeDSCustomization+Private.h"
 #import "STPThreeDSFooterCustomization.h"
 
-#import <Stripe/STDSUICustomization.h>
+#import "STDSUICustomization.h"
 
 @interface STPThreeDSUICustomization()
 @property (nonatomic, strong) NSMutableDictionary<NSNumber *, STPThreeDSButtonCustomization *> *buttonCustomizationDictionary;

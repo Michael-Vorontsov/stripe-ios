@@ -9,7 +9,7 @@
 #import "STPThreeDSFooterCustomization.h"
 
 #import "STPThreeDSCustomization+Private.h"
-#import <Stripe/STDSFooterCustomization.h>
+#import "STDSFooterCustomization.h"
 
 @implementation STPThreeDSFooterCustomization
 

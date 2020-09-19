@@ -9,7 +9,7 @@
 #import "STPThreeDSNavigationBarCustomization.h"
 
 #import "STPThreeDSCustomization+Private.h"
-#import <Stripe/STDSNavigationBarCustomization.h>
+#import "STDSNavigationBarCustomization.h"
 
 @implementation STPThreeDSNavigationBarCustomization
 
