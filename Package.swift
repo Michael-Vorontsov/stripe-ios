@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "StripeiOS",
+    name: "Stripe",
     products: [
         .library(
             name: "Stripe",
