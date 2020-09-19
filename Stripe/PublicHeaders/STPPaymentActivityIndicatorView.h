@@ -6,7 +6,7 @@
 //  Copyright © 2016 Stripe, Inc. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 /**
  This class can be used wherever you'd use a `UIActivityIndicatorView` and is intended to have a similar API. It renders as a spinning circle with a gap in it, similar to what you see in the App Store app or in the Apple Pay dialog when making a purchase. To change its color, set the `tintColor` property.

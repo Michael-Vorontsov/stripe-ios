@@ -6,7 +6,7 @@
 //  Copyright © 2016 Stripe, Inc. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 #import "STPAddress.h"
 #import "STPAddressFieldTableViewCell.h"
 

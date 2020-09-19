@@ -6,7 +6,7 @@
 //  Copyright © 2019 Stripe. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 //! Project version number for Stripe3DS2.
 FOUNDATION_EXPORT double Stripe3DS2VersionNumber;

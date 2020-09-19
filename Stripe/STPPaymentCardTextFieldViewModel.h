@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 #import "STPCard.h"
 #import "STPCardValidator.h"

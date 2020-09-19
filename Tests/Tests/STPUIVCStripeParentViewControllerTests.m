@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <UIKit/UIKit.h>
+@import UIKit;
 #import "UIViewController+Stripe_ParentViewController.h"
 
 @interface TestViewController : UIViewController

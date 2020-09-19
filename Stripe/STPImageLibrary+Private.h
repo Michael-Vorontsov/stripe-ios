@@ -7,7 +7,7 @@
 //
 
 #import "STPImageLibrary.h"
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 NS_ASSUME_NONNULL_BEGIN
 

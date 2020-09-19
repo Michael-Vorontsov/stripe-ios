@@ -6,7 +6,7 @@
 //  Copyright © 2017 Stripe, Inc. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 @class STPTheme;
 

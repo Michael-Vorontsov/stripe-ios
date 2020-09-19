@@ -25,7 +25,7 @@
 #import "STPPaymentOptionsViewController+Private.h"
 #import "STPPaymentOptionsViewController.h"
 #import "STPToken.h"
-#import <UIKit/UIKit.h>
+@import UIKit;
 #import <sys/utsname.h>
 
 @interface STPAnalyticsClient()

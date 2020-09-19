@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
+@import UIKit;
 #import "STPFPXBankBrand.h"
 #import "STPCardBrand.h"
 

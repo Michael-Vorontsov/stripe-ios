@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 /// An enum that defines the different types of buttons that are able to be customized.
 typedef NS_ENUM(NSInteger, STPThreeDSCustomizationButtonType) {

@@ -6,7 +6,7 @@
 //  Copyright © 2019 Stripe, Inc. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 #import <PassKit/PassKit.h>
 #import "STPCoreTableViewController.h"
 #import "STPFPXBankBrand.h"

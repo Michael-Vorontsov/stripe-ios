@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Stripe. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 #import <sys/utsname.h>
 
 #import <Stripe/Stripe3DS2.h>
